@@ -7,6 +7,7 @@ A few of the top resources are listed here
 
 * [The Privacy Book by Cynthia DWork and Aaron Roth](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
 * [My Favorite Differential Privacy Course by Gautam Kamath](http://www.gautamkamath.com/CS860-fa2020.html)
+* [Complexity of Differential Privacy](https://privacytools.seas.harvard.edu/files/privacytools/files/complexityprivacy_1.pdf)
 
 ## Deployment
 
